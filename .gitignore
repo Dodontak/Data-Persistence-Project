@@ -1,0 +1,8 @@
+*
+!Assets/
+!Packages/
+!UserSettings/
+!Assets/**
+!Packages/**
+!UserSettings/**
+!.gitignore
